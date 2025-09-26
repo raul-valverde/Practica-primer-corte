@@ -1,0 +1,14 @@
+C:\Users\MT\Desktop\ejercicios semana 5\EJERCICIOONE\Ejercicioexamen\bin\Debug\net9.0\Ejercicioexamen.exe
+C:\Users\MT\Desktop\ejercicios semana 5\EJERCICIOONE\Ejercicioexamen\bin\Debug\net9.0\Ejercicioexamen.deps.json
+C:\Users\MT\Desktop\ejercicios semana 5\EJERCICIOONE\Ejercicioexamen\bin\Debug\net9.0\Ejercicioexamen.runtimeconfig.json
+C:\Users\MT\Desktop\ejercicios semana 5\EJERCICIOONE\Ejercicioexamen\bin\Debug\net9.0\Ejercicioexamen.dll
+C:\Users\MT\Desktop\ejercicios semana 5\EJERCICIOONE\Ejercicioexamen\bin\Debug\net9.0\Ejercicioexamen.pdb
+C:\Users\MT\Desktop\ejercicios semana 5\EJERCICIOONE\Ejercicioexamen\obj\Debug\net9.0\Ejercicioexamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MT\Desktop\ejercicios semana 5\EJERCICIOONE\Ejercicioexamen\obj\Debug\net9.0\Ejercicioexamen.AssemblyInfoInputs.cache
+C:\Users\MT\Desktop\ejercicios semana 5\EJERCICIOONE\Ejercicioexamen\obj\Debug\net9.0\Ejercicioexamen.AssemblyInfo.cs
+C:\Users\MT\Desktop\ejercicios semana 5\EJERCICIOONE\Ejercicioexamen\obj\Debug\net9.0\Ejercicioexamen.csproj.CoreCompileInputs.cache
+C:\Users\MT\Desktop\ejercicios semana 5\EJERCICIOONE\Ejercicioexamen\obj\Debug\net9.0\Ejercicioexamen.dll
+C:\Users\MT\Desktop\ejercicios semana 5\EJERCICIOONE\Ejercicioexamen\obj\Debug\net9.0\refint\Ejercicioexamen.dll
+C:\Users\MT\Desktop\ejercicios semana 5\EJERCICIOONE\Ejercicioexamen\obj\Debug\net9.0\Ejercicioexamen.pdb
+C:\Users\MT\Desktop\ejercicios semana 5\EJERCICIOONE\Ejercicioexamen\obj\Debug\net9.0\Ejercicioexamen.genruntimeconfig.cache
+C:\Users\MT\Desktop\ejercicios semana 5\EJERCICIOONE\Ejercicioexamen\obj\Debug\net9.0\ref\Ejercicioexamen.dll
