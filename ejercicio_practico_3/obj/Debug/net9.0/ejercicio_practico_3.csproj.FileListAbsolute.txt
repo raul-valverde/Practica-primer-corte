@@ -1,0 +1,15 @@
+C:\Users\Natanael_VR\Desktop\semestre II\Prog Estru\semana5\ejercicio_practico_3\bin\Debug\net9.0\ejercicio_practico_3.exe
+C:\Users\Natanael_VR\Desktop\semestre II\Prog Estru\semana5\ejercicio_practico_3\bin\Debug\net9.0\ejercicio_practico_3.deps.json
+C:\Users\Natanael_VR\Desktop\semestre II\Prog Estru\semana5\ejercicio_practico_3\bin\Debug\net9.0\ejercicio_practico_3.runtimeconfig.json
+C:\Users\Natanael_VR\Desktop\semestre II\Prog Estru\semana5\ejercicio_practico_3\bin\Debug\net9.0\ejercicio_practico_3.dll
+C:\Users\Natanael_VR\Desktop\semestre II\Prog Estru\semana5\ejercicio_practico_3\bin\Debug\net9.0\ejercicio_practico_3.pdb
+C:\Users\Natanael_VR\Desktop\semestre II\Prog Estru\semana5\ejercicio_practico_3\obj\Debug\net9.0\ejercicio_practico_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natanael_VR\Desktop\semestre II\Prog Estru\semana5\ejercicio_practico_3\obj\Debug\net9.0\ejercicio_practico_3.AssemblyInfoInputs.cache
+C:\Users\Natanael_VR\Desktop\semestre II\Prog Estru\semana5\ejercicio_practico_3\obj\Debug\net9.0\ejercicio_practico_3.AssemblyInfo.cs
+C:\Users\Natanael_VR\Desktop\semestre II\Prog Estru\semana5\ejercicio_practico_3\obj\Debug\net9.0\ejercicio_practico_3.csproj.CoreCompileInputs.cache
+C:\Users\Natanael_VR\Desktop\semestre II\Prog Estru\semana5\ejercicio_practico_3\obj\Debug\net9.0\ejercicio_practico_3.sourcelink.json
+C:\Users\Natanael_VR\Desktop\semestre II\Prog Estru\semana5\ejercicio_practico_3\obj\Debug\net9.0\ejercicio_practico_3.dll
+C:\Users\Natanael_VR\Desktop\semestre II\Prog Estru\semana5\ejercicio_practico_3\obj\Debug\net9.0\refint\ejercicio_practico_3.dll
+C:\Users\Natanael_VR\Desktop\semestre II\Prog Estru\semana5\ejercicio_practico_3\obj\Debug\net9.0\ejercicio_practico_3.pdb
+C:\Users\Natanael_VR\Desktop\semestre II\Prog Estru\semana5\ejercicio_practico_3\obj\Debug\net9.0\ejercicio_practico_3.genruntimeconfig.cache
+C:\Users\Natanael_VR\Desktop\semestre II\Prog Estru\semana5\ejercicio_practico_3\obj\Debug\net9.0\ref\ejercicio_practico_3.dll
